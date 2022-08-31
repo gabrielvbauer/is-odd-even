@@ -1,0 +1,17 @@
+{
+  "name": "is-even-odd",
+  "version": "1.0.0",
+  "description": "Package to check if the number is odd or even",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "odd",
+    "even"
+  ],
+  "author": "Gabriel Vieira",
+  "license": "ISC",
+  "type": "module"
+}
